@@ -17,6 +17,7 @@
     <sprite>sprites\spr_skater_reverse</sprite>
     <sprite>sprites\spr_dog</sprite>
     <sprite>sprites\spr_warning</sprite>
+    <sprite>sprites\spr_mob</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -35,6 +36,7 @@
     <object>objects\obj_dog</object>
     <object>objects\obj_car</object>
     <object>objects\obj_warning</object>
+    <object>objects\obj_mob</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
