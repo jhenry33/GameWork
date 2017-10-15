@@ -15,6 +15,8 @@
     <sprite>sprites\spr_cone1</sprite>
     <sprite>sprites\spr_cone2</sprite>
     <sprite>sprites\spr_skater_reverse</sprite>
+    <sprite>sprites\spr_dog</sprite>
+    <sprite>sprites\spr_warning</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -30,6 +32,9 @@
     <object>objects\obj_cone2</object>
     <object>objects\obj_puddle</object>
     <object>objects\obj_puddle2</object>
+    <object>objects\obj_dog</object>
+    <object>objects\obj_car</object>
+    <object>objects\obj_warning</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
