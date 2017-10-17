@@ -4,7 +4,9 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\dog</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\Skate_rough</sprite>
     <sprite>sprites\sprite1</sprite>
