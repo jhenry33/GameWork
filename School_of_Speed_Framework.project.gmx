@@ -5,7 +5,10 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound">
+    <sound>sound\car</sound>
     <sound>sound\dog</sound>
+    <sound>sound\puddle</sound>
+    <sound>sound\cone</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\Skate_rough</sprite>
@@ -20,6 +23,11 @@
     <sprite>sprites\spr_dog</sprite>
     <sprite>sprites\spr_warning</sprite>
     <sprite>sprites\spr_mob</sprite>
+    <sprite>sprites\spr_swingset</sprite>
+    <sprite>sprites\spr_bush</sprite>
+    <sprite>sprites\spr_skatelyrHouse</sprite>
+    <sprite>sprites\spr_stopsign</sprite>
+    <sprite>sprites\spr_truck</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -39,6 +47,10 @@
     <object>objects\obj_car</object>
     <object>objects\obj_warning</object>
     <object>objects\obj_mob</object>
+    <object>objects\obj_swingset</object>
+    <object>objects\obj_stopsign</object>
+    <object>objects\obj_skatelyrHouse</object>
+    <object>objects\obj_bush</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
