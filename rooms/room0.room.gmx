@@ -74,7 +74,27 @@
     <instance objName="obj_puddle" x="832" y="448" name="inst_F8FBD3D8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_puddle" x="1056" y="320" name="inst_366BEE1A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_controller" x="0" y="0" name="inst_33D7E9ED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_mob" x="-256" y="416" name="inst_8CD5B27F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_skatelyrHouse" x="89" y="160" name="inst_C6EC9FC7" locked="0" code="" scaleX="4.38709688186646" scaleY="3.54838705062866" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bush" x="1408" y="192" name="inst_CA0EC162" locked="0" code="" scaleX="1.80645155906677" scaleY="2.29032254219055" colour="4294967295" rotation="0"/>
+    <instance objName="obj_swingset" x="2848" y="160" name="inst_FB679788" locked="0" code="" scaleX="3.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_stopsign" x="4288" y="544" name="inst_0B21B7B2" locked="0" code="" scaleX="1.80645155906677" scaleY="1.75" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bush" x="4248" y="192" name="inst_AB0916FF" locked="0" code="" scaleX="2.29032254219055" scaleY="1.80645155906677" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bush" x="4576" y="192" name="inst_25757866" locked="0" code="" scaleX="1.5" scaleY="1.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bush" x="6304" y="192" name="inst_9BE8021B" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bush" x="10080" y="192" name="inst_532A50E7" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bush" x="10368" y="224" name="inst_1B64EA17" locked="0" code="" scaleX="1.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bush" x="10880" y="192" name="inst_9D70D511" locked="0" code="" scaleX="1.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bush" x="12672" y="192" name="inst_B426CE82" locked="0" code="" scaleX="1.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bush" x="13120" y="224" name="inst_29F5A8DB" locked="0" code="" scaleX="1.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_stopsign" x="11968" y="544" name="inst_3112B78E" locked="0" code="" scaleX="2.25" scaleY="1.80645155906677" colour="4294967295" rotation="0"/>
+    <instance objName="obj_swingset" x="14400" y="192" name="inst_B6C8D3AC" locked="0" code="" scaleX="3.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_stopsign" x="14656" y="544" name="inst_AD050984" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bush" x="17888" y="192" name="inst_0FDAF6D6" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bush" x="18336" y="192" name="inst_8C40A9CE" locked="0" code="" scaleX="1.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_stopsign" x="26304" y="544" name="inst_C15C353F" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bush" x="25856" y="192" name="inst_F44D6020" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bush" x="26432" y="192" name="inst_4A123FD6" locked="0" code="" scaleX="1.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_school" x="29792" y="128" name="inst_48B2F987" locked="0" code="" scaleX="8.48387050628662" scaleY="7.45161294937134" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
