@@ -382,7 +382,7 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="obj_car">
+    <event eventtype="4" ename="obj_truck">
       <action>
         <libid>1</libid>
         <id>109</id>
