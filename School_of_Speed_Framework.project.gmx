@@ -34,6 +34,7 @@
     <background>background\background0</background>
     <background>background\background1</background>
     <background>background\level1</background>
+    <background>background\level2</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
