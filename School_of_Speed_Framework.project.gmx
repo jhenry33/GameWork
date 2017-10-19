@@ -28,6 +28,7 @@
     <sprite>sprites\spr_skatelyrHouse</sprite>
     <sprite>sprites\spr_stopsign</sprite>
     <sprite>sprites\spr_truck</sprite>
+    <sprite>sprites\spr_school</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -51,6 +52,7 @@
     <object>objects\obj_stopsign</object>
     <object>objects\obj_skatelyrHouse</object>
     <object>objects\obj_bush</object>
+    <object>objects\obj_school</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
