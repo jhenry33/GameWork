@@ -32,18 +32,17 @@
     <sprite>sprites\spr_detection</sprite>
     <sprite>sprites\spr_drone</sprite>
     <sprite>sprites\spr_fountain</sprite>
-    <sprite>sprites\sprite22</sprite>
+    <sprite>sprites\spr_tree</sprite>
   </sprites>
   <backgrounds name="background">
-    <background>background\background0</background>
-    <background>background\background1</background>
-    <background>background\level1</background>
-    <background>background\level2</background>
+    <background>background\bkg_level1</background>
+    <background>background\bkg_level2</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_skater</object>
     <object>objects\obj_controller</object>
+    <object>objects\obj_controller2</object>
     <object>objects\obj_obstacle</object>
     <object>objects\obj_cone</object>
     <object>objects\obj_cone2</object>
@@ -59,9 +58,12 @@
     <object>objects\obj_bush</object>
     <object>objects\obj_school</object>
     <object>objects\obj_fountain</object>
+    <object>objects\obj_end</object>
+    <object>objects\obj_tree</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\room_level1</room>
+    <room>rooms\room_level2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

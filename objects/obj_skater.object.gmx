@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>15</string>
+            <string>12</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -333,7 +333,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>.5</string>
+            <string>.6</string>
           </argument>
         </arguments>
       </action>
@@ -360,6 +360,22 @@
         <useapplyto>0</useapplyto>
         <exetype>0</exetype>
         <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+      </action>
+    </event>
+    <event eventtype="4" ename="obj_end">
+      <action>
+        <libid>1</libid>
+        <id>222</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_next_room</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -399,7 +415,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>25</string>
+            <string>20</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -595,7 +611,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>15</string>
+            <string>12</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -815,7 +831,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>10</string>
+            <string>9</string>
           </argument>
           <argument>
             <kind>0</kind>

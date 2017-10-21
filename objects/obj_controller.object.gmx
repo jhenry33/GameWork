@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>90</string>
+            <string>400</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -49,7 +49,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>150</string>
+            <string>900</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -243,7 +243,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>90</string>
+            <string>200</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -317,7 +317,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>60</string>
+            <string>80</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -414,6 +414,50 @@
           <argument>
             <kind>0</kind>
             <string>15</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="9" enumb="50">
+      <action>
+        <libid>1</libid>
+        <id>224</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_another_room</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>11</kind>
+            <room>room_level2</room>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="9" enumb="49">
+      <action>
+        <libid>1</libid>
+        <id>224</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_another_room</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>11</kind>
+            <room>room_level1</room>
           </argument>
         </arguments>
       </action>
