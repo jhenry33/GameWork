@@ -457,6 +457,8 @@
     <instance objName="obj_puddle" x="29840" y="496" name="inst_BF56EB86" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_puddle" x="29840" y="480" name="inst_CC3BAA30" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_puddle" x="29840" y="512" name="inst_6C34990F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_drone" x="304" y="320" name="inst_4AAF68DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_teacher" x="416" y="208" name="inst_7B1692C2" locked="0" code="" scaleX="1.5" scaleY="1.5" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

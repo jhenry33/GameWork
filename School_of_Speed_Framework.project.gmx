@@ -29,16 +29,22 @@
     <sprite>sprites\spr_stopsign</sprite>
     <sprite>sprites\spr_truck</sprite>
     <sprite>sprites\spr_school</sprite>
-    <sprite>sprites\spr_detection</sprite>
     <sprite>sprites\spr_drone</sprite>
+    <sprite>sprites\spr_detection</sprite>
     <sprite>sprites\spr_fountain</sprite>
     <sprite>sprites\spr_tree</sprite>
+    <sprite>sprites\spr_ruler</sprite>
+    <sprite>sprites\spr_teacher</sprite>
+    <sprite>sprites\spr_ammo</sprite>
+    <sprite>sprites\spr_spitball</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_level1</background>
     <background>background\bkg_level2</background>
   </backgrounds>
-  <paths name="paths"/>
+  <paths name="paths">
+    <path>paths\path0</path>
+  </paths>
   <objects name="objects">
     <object>objects\obj_skater</object>
     <object>objects\obj_controller</object>
@@ -60,6 +66,11 @@
     <object>objects\obj_fountain</object>
     <object>objects\obj_end</object>
     <object>objects\obj_tree</object>
+    <object>objects\obj_drone</object>
+    <object>objects\obj_ruler</object>
+    <object>objects\obj_teacher</object>
+    <object>objects\obj_ammo</object>
+    <object>objects\obj_spitball</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_level1</room>
