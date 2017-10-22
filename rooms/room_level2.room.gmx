@@ -42,20 +42,67 @@
   </backgrounds>
   <views>
     <view visible="-1" objName="obj_skater" xview="0" yview="0" wview="800" hview="600" xport="0" yport="0" wport="800" hport="600" hborder="400" vborder="300" hspeed="30" vspeed="0"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
     <instance objName="obj_skater" x="0" y="416" name="inst_DCE7146B" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="obj_fountain" x="320" y="208" name="inst_6E5D1A21" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="obj_puddle" x="288" y="272" name="inst_D6FC995C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="272" y="288" name="inst_D6FC995C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_mob" x="-320" y="432" name="inst_78F310CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_controller2" x="0" y="0" name="inst_6D9BCBE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="320" y="336" name="inst_EC9B7D7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_fountain" x="1904" y="208" name="inst_5C2B95D6" locked="0" code="" scaleX="2.24000000953674" scaleY="2.24000000953674" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="1840" y="288" name="inst_F6080954" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="1904" y="336" name="inst_D5C37643" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_fountain" x="4000" y="208" name="inst_BF87A98F" locked="0" code="" scaleX="2.24000000953674" scaleY="2.24000000953674" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="3952" y="560" name="inst_6ED2F83E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="4000" y="528" name="inst_F439D6F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="6048" y="272" name="inst_FE781FDD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="6112" y="304" name="inst_3FBE091F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="6032" y="576" name="inst_AFC0BBE4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="6096" y="544" name="inst_C6DBF9B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_fountain" x="6096" y="208" name="inst_B289EA12" locked="0" code="" scaleX="2.24000000953674" scaleY="2.24000000953674" colour="4294967295" rotation="0"/>
+    <instance objName="obj_fountain" x="8784" y="208" name="inst_8F519F9B" locked="0" code="" scaleX="2.24000000953674" scaleY="2.24000000953674" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="8752" y="416" name="inst_8406797B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="11472" y="288" name="inst_A99A918D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="11536" y="320" name="inst_1CF49DC1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_fountain" x="11504" y="208" name="inst_9134BD2B" locked="0" code="" scaleX="2.24000000953674" scaleY="2.24000000953674" colour="4294967295" rotation="0"/>
+    <instance objName="obj_fountain" x="14080" y="208" name="inst_EB9BE235" locked="0" code="" scaleX="2.24000000953674" scaleY="2.24000000953674" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="14032" y="272" name="inst_8AD4E4FC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="14096" y="304" name="inst_950C796B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="14048" y="352" name="inst_97183BD5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="16752" y="576" name="inst_05B2BC13" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="16800" y="544" name="inst_C7718DF0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="16832" y="496" name="inst_55C68CFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_fountain" x="16784" y="208" name="inst_5189F41B" locked="0" code="" scaleX="2.24000000953674" scaleY="2.24000000953674" colour="4294967295" rotation="0"/>
+    <instance objName="obj_fountain" x="19200" y="208" name="inst_E9E96AB6" locked="0" code="" scaleX="2.24000000953674" scaleY="2.24000000953674" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="19168" y="288" name="inst_73141A7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="19344" y="544" name="inst_24D5DF06" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="21552" y="352" name="inst_35414953" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_fountain" x="21600" y="208" name="inst_9DAE704A" locked="0" code="" scaleX="2.24000000953674" scaleY="2.24000000953674" colour="4294967295" rotation="0"/>
+    <instance objName="obj_fountain" x="23984" y="208" name="inst_61824ACA" locked="0" code="" scaleX="2.24000000953674" scaleY="2.24000000953674" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="23936" y="288" name="inst_2217C508" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="24016" y="320" name="inst_BE338221" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="23920" y="576" name="inst_970DA3E1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="23984" y="544" name="inst_1D0AAA4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="26480" y="416" name="inst_4C795727" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="26400" y="448" name="inst_AC727525" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="26368" y="512" name="inst_11A0249C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="26432" y="560" name="inst_1A4B1343" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_fountain" x="26384" y="208" name="inst_D81CDDE4" locked="0" code="" scaleX="2.24000000953674" scaleY="2.24000000953674" colour="4294967295" rotation="0"/>
+    <instance objName="obj_fountain" x="28784" y="208" name="inst_23B8A3E7" locked="0" code="" scaleX="2.24000000953674" scaleY="2.24000000953674" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="28832" y="272" name="inst_665F2795" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="28864" y="320" name="inst_EBAEACFA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="28912" y="352" name="inst_993070CF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="29072" y="576" name="inst_AE350D34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="29120" y="528" name="inst_71B9052C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_puddle" x="29184" y="512" name="inst_0381EF0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
