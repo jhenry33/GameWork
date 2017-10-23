@@ -9,6 +9,10 @@
     <sound>sound\dog</sound>
     <sound>sound\puddle</sound>
     <sound>sound\cone</sound>
+    <sound>sound\drone</sound>
+    <sound>sound\detection</sound>
+    <sound>sound\outdoorMusic</sound>
+    <sound>sound\indoorMusic</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\Skate_rough</sprite>
@@ -34,9 +38,16 @@
     <sprite>sprites\spr_fountain</sprite>
     <sprite>sprites\spr_tree</sprite>
     <sprite>sprites\spr_ruler</sprite>
-    <sprite>sprites\spr_teacher</sprite>
+    <sprite>sprites\spr_teacher3</sprite>
     <sprite>sprites\spr_ammo</sprite>
     <sprite>sprites\spr_spitball</sprite>
+    <sprite>sprites\spr_officer1</sprite>
+    <sprite>sprites\spr_officer2</sprite>
+    <sprite>sprites\spr_officer3</sprite>
+    <sprite>sprites\spr_officer4</sprite>
+    <sprite>sprites\spr_principal</sprite>
+    <sprite>sprites\spr_teacher1</sprite>
+    <sprite>sprites\spr_teacher2</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_level1</background>
@@ -57,7 +68,13 @@
     <object>objects\obj_dog</object>
     <object>objects\obj_truck</object>
     <object>objects\obj_warning</object>
-    <object>objects\obj_mob</object>
+    <object>objects\obj_officer1</object>
+    <object>objects\obj_principal</object>
+    <object>objects\obj_teacher1</object>
+    <object>objects\obj_teacher2</object>
+    <object>objects\obj_officer2</object>
+    <object>objects\obj_officer3</object>
+    <object>objects\obj_officer4</object>
     <object>objects\obj_swingset</object>
     <object>objects\obj_stopsign</object>
     <object>objects\obj_skatelyrHouse</object>
@@ -68,9 +85,11 @@
     <object>objects\obj_tree</object>
     <object>objects\obj_drone</object>
     <object>objects\obj_ruler</object>
-    <object>objects\obj_teacher</object>
+    <object>objects\obj_teacher3</object>
     <object>objects\obj_ammo</object>
     <object>objects\obj_spitball</object>
+    <object>objects\obj_outdoorMusic</object>
+    <object>objects\obj_indoorMusic</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_level1</room>

@@ -45,7 +45,7 @@
         <exetype>1</exetype>
         <functionname>action_move_to</functionname>
         <codestring></codestring>
-        <whoName>obj_mob</whoName>
+        <whoName>obj_officer1</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
@@ -123,7 +123,7 @@
         <exetype>1</exetype>
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
-        <whoName>obj_mob</whoName>
+        <whoName>obj_officer1</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
@@ -205,7 +205,7 @@
         <exetype>1</exetype>
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
-        <whoName>obj_mob</whoName>
+        <whoName>obj_officer1</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
@@ -629,7 +629,7 @@
         <exetype>1</exetype>
         <functionname>action_move_to</functionname>
         <codestring></codestring>
-        <whoName>obj_mob</whoName>
+        <whoName>obj_officer1</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
@@ -707,7 +707,7 @@
         <exetype>1</exetype>
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
-        <whoName>obj_mob</whoName>
+        <whoName>obj_officer1</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
@@ -789,7 +789,7 @@
         <exetype>1</exetype>
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
-        <whoName>obj_mob</whoName>
+        <whoName>obj_officer1</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
@@ -830,7 +830,7 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="obj_mob">
+    <event eventtype="4" ename="obj_officer1">
       <action>
         <libid>1</libid>
         <id>331</id>
@@ -857,7 +857,7 @@
         <exetype>1</exetype>
         <functionname>action_move_to</functionname>
         <codestring></codestring>
-        <whoName>obj_mob</whoName>
+        <whoName>obj_officer1</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
@@ -935,7 +935,7 @@
         <exetype>1</exetype>
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
-        <whoName>obj_mob</whoName>
+        <whoName>obj_officer1</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
@@ -1017,7 +1017,7 @@
         <exetype>1</exetype>
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
-        <whoName>obj_mob</whoName>
+        <whoName>obj_officer1</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
@@ -1053,7 +1053,7 @@
         <exetype>1</exetype>
         <functionname>action_move_to</functionname>
         <codestring></codestring>
-        <whoName>obj_mob</whoName>
+        <whoName>obj_officer1</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
@@ -1131,7 +1131,7 @@
         <exetype>1</exetype>
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
-        <whoName>obj_mob</whoName>
+        <whoName>obj_officer1</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
@@ -1213,7 +1213,7 @@
         <exetype>1</exetype>
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
-        <whoName>obj_mob</whoName>
+        <whoName>obj_officer1</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
@@ -1273,7 +1273,7 @@
         <exetype>1</exetype>
         <functionname>action_move_to</functionname>
         <codestring></codestring>
-        <whoName>obj_mob</whoName>
+        <whoName>obj_officer1</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
@@ -1421,7 +1421,7 @@ global.slip = irandom_range(250, 550);
         <exetype>1</exetype>
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
-        <whoName>obj_mob</whoName>
+        <whoName>obj_officer1</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
@@ -1503,7 +1503,7 @@ global.slip = irandom_range(250, 550);
         <exetype>1</exetype>
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
-        <whoName>obj_mob</whoName>
+        <whoName>obj_officer1</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>

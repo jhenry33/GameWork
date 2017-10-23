@@ -51,10 +51,9 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="obj_skater" x="0" y="416" name="inst_DCE7146B" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_skater" x="176" y="384" name="inst_DCE7146B" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="obj_fountain" x="320" y="208" name="inst_6E5D1A21" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="obj_puddle" x="272" y="288" name="inst_D6FC995C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_mob" x="-320" y="432" name="inst_78F310CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_controller2" x="0" y="0" name="inst_6D9BCBE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_puddle" x="320" y="336" name="inst_EC9B7D7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_fountain" x="1904" y="208" name="inst_5C2B95D6" locked="0" code="" scaleX="2.24000000953674" scaleY="2.24000000953674" colour="4294967295" rotation="0"/>
@@ -103,6 +102,10 @@
     <instance objName="obj_puddle" x="29072" y="576" name="inst_AE350D34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_puddle" x="29120" y="528" name="inst_71B9052C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_puddle" x="29184" y="512" name="inst_0381EF0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_principal" x="48" y="352" name="inst_C056AAB4" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_teacher1" x="32" y="240" name="inst_9B655701" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_teacher2" x="32" y="480" name="inst_B39EFCEF" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_indoorMusic" x="16" y="0" name="inst_CA1C260F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
