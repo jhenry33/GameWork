@@ -13,6 +13,7 @@
     <sound>sound\detection</sound>
     <sound>sound\outdoorMusic</sound>
     <sound>sound\indoorMusic</sound>
+    <sound>sound\gum</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\Skate_rough</sprite>
@@ -48,6 +49,12 @@
     <sprite>sprites\spr_principal</sprite>
     <sprite>sprites\spr_teacher1</sprite>
     <sprite>sprites\spr_teacher2</sprite>
+    <sprite>sprites\spr_gum1</sprite>
+    <sprite>sprites\spr_gum2</sprite>
+    <sprite>sprites\spr_gum3</sprite>
+    <sprite>sprites\spr_splat1</sprite>
+    <sprite>sprites\spr_splat2</sprite>
+    <sprite>sprites\spr_splat3</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_level1</background>
@@ -90,6 +97,12 @@
     <object>objects\obj_spitball</object>
     <object>objects\obj_outdoorMusic</object>
     <object>objects\obj_indoorMusic</object>
+    <object>objects\obj_gum1</object>
+    <object>objects\obj_gum2</object>
+    <object>objects\obj_gum3</object>
+    <object>objects\obj_splat1</object>
+    <object>objects\obj_splat2</object>
+    <object>objects\obj_splat3</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_level1</room>
