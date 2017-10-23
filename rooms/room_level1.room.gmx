@@ -457,12 +457,13 @@
     <instance objName="obj_puddle" x="29840" y="512" name="inst_6C34990F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_drone" x="304" y="320" name="inst_4AAF68DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_teacher3" x="416" y="208" name="inst_7B1692C2" locked="0" code="" scaleX="1.5" scaleY="1.5" colour="4294967295" rotation="0"/>
-    <instance objName="obj_officer1" x="32" y="224" name="inst_871AD0E7" locked="0" code="" scaleX="2.25" scaleY="1.75" colour="4294967295" rotation="0"/>
-    <instance objName="obj_officer2" x="32" y="400" name="inst_F2C58ECA" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
-    <instance objName="obj_officer3" x="48" y="272" name="inst_514A58DF" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
-    <instance objName="obj_officer4" x="64" y="336" name="inst_DDA2538C" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
-    <instance objName="obj_officer1" x="16" y="480" name="inst_7C5DD5D8" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_officer1" x="-80" y="272" name="inst_871AD0E7" locked="0" code="" scaleX="2.25" scaleY="1.75" colour="4294967295" rotation="0"/>
+    <instance objName="obj_officer2" x="-32" y="448" name="inst_F2C58ECA" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_officer3" x="-48" y="304" name="inst_514A58DF" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_officer4" x="-32" y="368" name="inst_DDA2538C" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_officer1" x="-48" y="512" name="inst_7C5DD5D8" locked="0" code="" scaleX="2.5" scaleY="2.5" colour="4294967295" rotation="0"/>
     <instance objName="obj_outdoorMusic" x="16" y="0" name="inst_0851DBD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_end" x="30448" y="160" name="inst_B9539928" locked="0" code="" scaleX="2" scaleY="16.5" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
