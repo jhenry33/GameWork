@@ -111,8 +111,8 @@
     <object>objects\obj_garbage</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room_level2</room>
     <room>rooms\room_level1</room>
+    <room>rooms\room_level2</room>
     <room>rooms\room_level3</room>
   </rooms>
   <help>

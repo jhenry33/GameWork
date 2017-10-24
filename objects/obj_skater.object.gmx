@@ -124,12 +124,12 @@
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
         <whoName>obj_officer1</whoName>
-        <relative>-1</relative>
+        <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-5</string>
+            <string>obj_skater.hspeed - 5</string>
           </argument>
         </arguments>
       </action>
@@ -854,12 +854,12 @@
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
         <whoName>obj_officer1</whoName>
-        <relative>-1</relative>
+        <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-2</string>
+            <string>obj_skater.hspeed - 2</string>
           </argument>
         </arguments>
       </action>
@@ -1084,12 +1084,12 @@
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
         <whoName>obj_officer1</whoName>
-        <relative>-1</relative>
+        <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-2</string>
+            <string>obj_skater.hspeed - 2</string>
           </argument>
         </arguments>
       </action>
@@ -1328,12 +1328,12 @@
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
         <whoName>obj_officer1</whoName>
-        <relative>-1</relative>
+        <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-2</string>
+            <string>obj_skater.hspeed - 2</string>
           </argument>
         </arguments>
       </action>
@@ -1564,12 +1564,12 @@
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
         <whoName>obj_officer1</whoName>
-        <relative>-1</relative>
+        <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-5</string>
+            <string>obj_skater.hspeed - 5</string>
           </argument>
         </arguments>
       </action>
@@ -1792,12 +1792,12 @@
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
         <whoName>obj_officer1</whoName>
-        <relative>-1</relative>
+        <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-15</string>
+            <string>obj_skater.hspeed - 15</string>
           </argument>
         </arguments>
       </action>
@@ -1993,7 +1993,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-5</string>
+            <string>obj_skater.hspeed - 5</string>
           </argument>
         </arguments>
       </action>
@@ -2278,12 +2278,12 @@ global.slip = irandom_range(250, 550);
         <functionname>action_set_hspeed</functionname>
         <codestring></codestring>
         <whoName>obj_officer1</whoName>
-        <relative>-1</relative>
+        <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-2</string>
+            <string>obj_skater.hspeed - 2</string>
           </argument>
         </arguments>
       </action>
