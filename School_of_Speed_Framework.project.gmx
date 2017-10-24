@@ -62,6 +62,7 @@
   <backgrounds name="background">
     <background>background\bkg_level1</background>
     <background>background\bkg_level2</background>
+    <background>background\bkg_level3</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\path0</path>
@@ -112,6 +113,7 @@
   <rooms name="rooms">
     <room>rooms\room_level2</room>
     <room>rooms\room_level1</room>
+    <room>rooms\room_level3</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
