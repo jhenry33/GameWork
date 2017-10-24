@@ -14,6 +14,7 @@
     <sound>sound\outdoorMusic</sound>
     <sound>sound\indoorMusic</sound>
     <sound>sound\gum</sound>
+    <sound>sound\trash</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\Skate_rough</sprite>
@@ -55,6 +56,8 @@
     <sprite>sprites\spr_splat1</sprite>
     <sprite>sprites\spr_splat2</sprite>
     <sprite>sprites\spr_splat3</sprite>
+    <sprite>sprites\spr_trash</sprite>
+    <sprite>sprites\spr_garbage</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_level1</background>
@@ -103,6 +106,8 @@
     <object>objects\obj_splat1</object>
     <object>objects\obj_splat2</object>
     <object>objects\obj_splat3</object>
+    <object>objects\obj_trash</object>
+    <object>objects\obj_garbage</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_level2</room>
