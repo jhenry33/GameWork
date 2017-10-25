@@ -59,7 +59,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>room_intro: press space</string>
+            <string>School of Speed;  Press Space</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -155,7 +155,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>room_level1_start: press space</string>
+            <string>Controls: Arrow Keys - Movement; Spacebar - Fire spitballs; Press Space to Begin</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -251,7 +251,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>room_level2_start: press space</string>
+            <string>Gnarly job! On to level 2! Watch out for teachers! Press Space.</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -347,7 +347,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>room_level3_start: press space</string>
+            <string>Radical! Time to get home! Press Space!</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -443,7 +443,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>room_end: press space</string>
+            <string>Awesome job! You're totally not a loser!</string>
           </argument>
           <argument>
             <kind>0</kind>
