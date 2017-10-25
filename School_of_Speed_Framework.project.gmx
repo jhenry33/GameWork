@@ -21,7 +21,7 @@
     <sound>sound\spit</sound>
     <sound>sound\droneDefense</sound>
     <sound>sound\impact</sound>
-    <sound>sound\ammo</sound>
+    <sound>sound\snd_ammo</sound>
     <sound>sound\nightMusic</sound>
   </sounds>
   <sprites name="sprites">
