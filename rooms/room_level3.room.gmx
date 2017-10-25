@@ -53,7 +53,6 @@
   <instances>
     <instance objName="obj_skater" x="128" y="416" name="inst_4F48A6F6" locked="0" code="" scaleX="2" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="obj_controller" x="0" y="0" name="inst_9676021D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_outdoorMusic" x="16" y="0" name="inst_546A2CFC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_officer1" x="-128" y="416" name="inst_DB39247A" locked="0" code="" scaleX="1.5" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="obj_officer2" x="-144" y="480" name="inst_041AEC8E" locked="0" code="" scaleX="1.5" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="obj_officer3" x="-144" y="352" name="inst_BB3E6129" locked="0" code="" scaleX="2" scaleY="2.5" colour="4294967295" rotation="0"/>

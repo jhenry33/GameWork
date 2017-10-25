@@ -48,7 +48,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>obj_skater.hspeed - .2</string>
+            <string>obj_skater.hspeed - .17</string>
           </argument>
         </arguments>
       </action>

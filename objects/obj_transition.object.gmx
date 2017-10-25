@@ -59,7 +59,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>School of Speed;  Press Space</string>
+            <string>School of Speed</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -68,6 +68,118 @@
           <argument>
             <kind>0</kind>
             <string>10</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>514</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_draw_text</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>2</kind>
+            <string>Play as Skatelyr and try to get to school on time while avoiding obstacles. Don't get caught</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>10</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>40</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>514</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_draw_text</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>2</kind>
+            <string>and stay under control as you go faster and faster!</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>10</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>70</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>514</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_draw_text</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>2</kind>
+            <string>Pick up sheets of paper for spitballs that can destroy almost any obstacle!</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>10</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>100</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>514</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_draw_text</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>2</kind>
+            <string>Press Space</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>10</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>130</string>
           </argument>
         </arguments>
       </action>
@@ -155,7 +267,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>Controls: Arrow Keys - Movement; Spacebar - Fire spitballs; Press Space to Begin</string>
+            <string>Controls: Arrow Keys - Movement; Spacebar - Fire spitball; Press Space to Begin</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -251,7 +363,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>Gnarly job! On to level 2! Watch out for teachers! Press Space.</string>
+            <string>Gnarly job! On to level 2! Watch out for teachers as you escape detention! Press Space.</string>
           </argument>
           <argument>
             <kind>0</kind>
