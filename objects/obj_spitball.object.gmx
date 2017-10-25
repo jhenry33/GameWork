@@ -70,7 +70,7 @@ image_yscale = .5;
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>trash</sound>
+            <sound>snd_trash</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -124,7 +124,7 @@ image_yscale = .5;
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>impact</sound>
+            <sound>snd_impact</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -178,7 +178,7 @@ image_yscale = .5;
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>impact</sound>
+            <sound>snd_impact</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -232,7 +232,7 @@ image_yscale = .5;
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>impact</sound>
+            <sound>snd_impact</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -286,7 +286,7 @@ image_yscale = .5;
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>teacherDefense</sound>
+            <sound>snd_teacherDefense</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -340,7 +340,7 @@ image_yscale = .5;
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>impact</sound>
+            <sound>snd_impact</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -394,7 +394,7 @@ image_yscale = .5;
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>droneDefense</sound>
+            <sound>snd_droneDefense</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -448,7 +448,7 @@ image_yscale = .5;
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>impact</sound>
+            <sound>snd_impact</sound>
           </argument>
           <argument>
             <kind>3</kind>

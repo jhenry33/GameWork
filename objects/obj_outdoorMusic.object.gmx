@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>outdoorMusic</sound>
+            <sound>snd_outdoorMusic</sound>
           </argument>
         </arguments>
       </action>
@@ -47,7 +47,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>outdoorMusic</sound>
+            <sound>snd_outdoorMusic</sound>
           </argument>
           <argument>
             <kind>3</kind>

@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>drone</sound>
+            <sound>snd_drone</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -154,7 +154,7 @@ image_yscale = 2;
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>detection</sound>
+            <sound>snd_detection</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -422,7 +422,7 @@ image_yscale = 2;
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>drone</sound>
+            <sound>snd_drone</sound>
           </argument>
         </arguments>
       </action>
@@ -442,7 +442,7 @@ image_yscale = 2;
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>detection</sound>
+            <sound>snd_detection</sound>
           </argument>
         </arguments>
       </action>

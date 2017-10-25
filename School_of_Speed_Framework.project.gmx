@@ -5,24 +5,24 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound">
-    <sound>sound\car</sound>
-    <sound>sound\dog</sound>
-    <sound>sound\puddle</sound>
-    <sound>sound\cone</sound>
-    <sound>sound\drone</sound>
-    <sound>sound\detection</sound>
-    <sound>sound\outdoorMusic</sound>
-    <sound>sound\indoorMusic</sound>
-    <sound>sound\gum</sound>
-    <sound>sound\trash</sound>
-    <sound>sound\ruler</sound>
-    <sound>sound\teacherOffense</sound>
-    <sound>sound\teacherDefense</sound>
-    <sound>sound\spit</sound>
-    <sound>sound\droneDefense</sound>
-    <sound>sound\impact</sound>
+    <sound>sound\snd_car</sound>
+    <sound>sound\snd_dog</sound>
+    <sound>sound\snd_puddle</sound>
+    <sound>sound\snd_cone</sound>
+    <sound>sound\snd_drone</sound>
+    <sound>sound\snd_detection</sound>
+    <sound>sound\snd_outdoorMusic</sound>
+    <sound>sound\snd_indoorMusic</sound>
+    <sound>sound\snd_gum</sound>
+    <sound>sound\snd_trash</sound>
+    <sound>sound\snd_ruler</sound>
+    <sound>sound\snd_teacherOffense</sound>
+    <sound>sound\snd_teacherDefense</sound>
+    <sound>sound\snd_spit</sound>
+    <sound>sound\snd_droneDefense</sound>
+    <sound>sound\snd_impact</sound>
     <sound>sound\snd_ammo</sound>
-    <sound>sound\nightMusic</sound>
+    <sound>sound\snd_nightMusic</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\Skate_rough</sprite>

@@ -67,7 +67,7 @@ image_yscale = 5;
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>car</sound>
+            <sound>snd_car</sound>
           </argument>
           <argument>
             <kind>3</kind>

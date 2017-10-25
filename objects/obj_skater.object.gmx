@@ -707,7 +707,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>trash</sound>
+            <sound>snd_trash</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -805,7 +805,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>gum</sound>
+            <sound>snd_gum</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -1035,7 +1035,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>gum</sound>
+            <sound>snd_gum</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -1279,7 +1279,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>gum</sound>
+            <sound>snd_gum</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -2227,7 +2227,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>puddle</sound>
+            <sound>snd_puddle</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -2545,7 +2545,7 @@ global.slip = irandom_range(250, 550);
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>cone</sound>
+            <sound>snd_cone</sound>
           </argument>
           <argument>
             <kind>3</kind>
