@@ -21,11 +21,11 @@
     <sprite>sprites\sprite1</sprite>
     <sprite>sprites\sprite2</sprite>
     <sprite>sprites\spr_skater</sprite>
+    <sprite>sprites\spr_skater_shoot</sprite>
     <sprite>sprites\spr_puddle1</sprite>
     <sprite>sprites\spr_puddle2</sprite>
     <sprite>sprites\spr_cone1</sprite>
     <sprite>sprites\spr_cone2</sprite>
-    <sprite>sprites\spr_skater_reverse</sprite>
     <sprite>sprites\spr_dog</sprite>
     <sprite>sprites\spr_warning</sprite>
     <sprite>sprites\spr_mob</sprite>
@@ -109,11 +109,17 @@
     <object>objects\obj_splat3</object>
     <object>objects\obj_trash</object>
     <object>objects\obj_garbage</object>
+    <object>objects\obj_transition</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\room_intro</room>
+    <room>rooms\room_level1_start</room>
     <room>rooms\room_level1</room>
+    <room>rooms\room_level2_start</room>
     <room>rooms\room_level2</room>
+    <room>rooms\room_level3_start</room>
     <room>rooms\room_level3</room>
+    <room>rooms\room_end</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
