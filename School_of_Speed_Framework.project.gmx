@@ -15,6 +15,14 @@
     <sound>sound\indoorMusic</sound>
     <sound>sound\gum</sound>
     <sound>sound\trash</sound>
+    <sound>sound\ruler</sound>
+    <sound>sound\teacherOffense</sound>
+    <sound>sound\teacherDefense</sound>
+    <sound>sound\spit</sound>
+    <sound>sound\droneDefense</sound>
+    <sound>sound\impact</sound>
+    <sound>sound\ammo</sound>
+    <sound>sound\nightMusic</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\Skate_rough</sprite>
@@ -110,6 +118,7 @@
     <object>objects\obj_trash</object>
     <object>objects\obj_garbage</object>
     <object>objects\obj_transition</object>
+    <object>objects\obj_nightMusic</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_intro</room>
